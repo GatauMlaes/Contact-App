@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "nama": "Tirta",
+      "email": "tirta@gmail.com",
+      "noTelp": "12345"
+    },
+    {
+      "nama": "halo",
+      "email": "halo@gmail.com",
+      "noTelp": "1345"
+    },
+    {
+      "nama": "halo",
+      "email": "gdhsjka",
+      "noTelp": "1234"
+    },
+    {
+      "nama": "Halo",
+      "email": "halo@gmail.com",
+      "noTelp": "083145627"
+    }
+  ]
+}
